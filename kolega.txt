@@ -8,3 +8,4 @@ szusty
 siudmy
 ósmy
 baseUpstream
+kolega1
