@@ -3,3 +3,5 @@ drugi
 trzeci
 czwarty
 piaty
+
+szusty
