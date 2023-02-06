@@ -7,3 +7,4 @@ ja czwarty
 ja jeden
 ja jedennnnnnnnnnn
 ja rebase
+ja zmiana
