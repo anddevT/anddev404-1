@@ -2,4 +2,3 @@ pierwszy
 drugi
 trzeci
 czwart
-piaąty
