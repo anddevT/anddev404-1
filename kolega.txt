@@ -19,3 +19,4 @@ kolega rebase
 kolega zmiana1
 kolega zmiana2
 kolega zmiana3
+kolega 1 
