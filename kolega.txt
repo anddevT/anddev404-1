@@ -16,3 +16,4 @@ kolega jeden
 kolega jedennnnnnnnnnnnnn
 kolega rebase
 kolega rebase
+kolega zmiana1
