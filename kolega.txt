@@ -12,3 +12,4 @@ kolega1
 kolega2
 kolega3
 kolega4
+kolega jeden
