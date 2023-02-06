@@ -6,3 +6,4 @@ ja trzeci
 ja czwarty
 ja jeden
 ja jedennnnnnnnnnn
+ja rebase
