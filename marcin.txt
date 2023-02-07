@@ -10,3 +10,4 @@ ja rebase
 ja zmiana
 ja zmiana1
 feature1
+feature2
