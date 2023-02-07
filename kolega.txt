@@ -21,3 +21,4 @@ kolega zmiana2
 kolega zmiana3
 kolega 1 k2
 kolega A
+kolega B
