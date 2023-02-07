@@ -9,3 +9,4 @@ ja jedennnnnnnnnnn
 ja rebase
 ja zmiana
 ja zmiana1
+feature1
